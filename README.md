@@ -5,7 +5,7 @@ I am a Cybersecurity student at UET Pakistan learning
 Linux from scratch as part of my DevSecOps roadmap.
 
 ## Progress
-- [ ] Basic Commands
+- [x] Basic Commands
 - [ ] File Permissions
 - [ ] Bash Scripting
 - [ ] OverTheWire Bandit (0/34)
